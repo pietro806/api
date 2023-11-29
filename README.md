@@ -1,0 +1,1 @@
+Neste repositório demonstro o que sei sobre a criação de API's, utilizando o software MySQL Workbench para a criação do banco de dados. Dentre o conhecimento que tenho, posso realizar consultas, alterações, exclusões, inserções, entre outras ações no banco de dados.
